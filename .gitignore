@@ -1,0 +1,17 @@
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.env
+.env.*
+models/
+cache/
+work/
+outputs/
+installation.json
+setup-before.json
+setup-state.json
+*-verification.json

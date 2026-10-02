@@ -1,0 +1,2 @@
+# The installer obtains paddlepaddle==3.3.0 from the official CPU index separately.
+paddleocr==3.7.0

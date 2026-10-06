@@ -1,0 +1,4 @@
+# Tested on Linux x86_64 with Python 3.12.
+faster-whisper==1.2.1
+# PyAV 19 removed metadata_errors, still passed by faster-whisper 1.2.1.
+av==18.1.0

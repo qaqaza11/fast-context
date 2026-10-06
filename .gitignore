@@ -15,3 +15,9 @@ installation.json
 setup-before.json
 setup-state.json
 *-verification.json
+
+# linux supplement (installer artifacts)
+fonts/
+verification.json
+backups/
+logs/

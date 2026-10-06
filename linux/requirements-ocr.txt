@@ -1,0 +1,4 @@
+# Tested on Linux x86_64 with Python 3.12.
+# NOTE: paddlepaddle==3.3.0 is installed separately from the official CPU index
+# (https://www.paddlepaddle.org.cn/packages/stable/cpu/) before this file.
+paddleocr==3.7.0
